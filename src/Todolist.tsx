@@ -29,7 +29,7 @@ export const Todolist = (props: TodolistPropsType) => {
             </ul>
             <div>
                 <button>All</button>
-                <button>Active</button>
+                <button>Actccive</button>
                 <button>Completed</button>
             </div>
         </div>
