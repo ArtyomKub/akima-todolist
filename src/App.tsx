@@ -3,7 +3,7 @@ import './App.css';
 import {Todolist} from "./Todolist";
 
 function App() {
-    const title1 = 'What to learn'
+    const titl1e1 = 'What to learn'
     const title2 = 'What to buy'
 
     const tasks1 = [
